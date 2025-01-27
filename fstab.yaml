@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:u:/r/sites/eds-poc
+  /: https://adobe.sharepoint.com/sites/eds-poc/Shared%20Documents/Forms/AllItems.aspx
 
 folders:
   /products/: /products/default
